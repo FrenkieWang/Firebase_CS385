@@ -4,7 +4,6 @@ import { getFirestore, initializeFirestore } from "firebase/firestore";
 
 
 const firebaseConfig = {
-
  // you will need to generate this within Firebase yourself. 
 };
 
