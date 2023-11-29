@@ -2,9 +2,11 @@
 This is a full-stack application!
 We use React, Firebase and NodeJS in this project.
 We can connect the firebase database and realize the C-R-U-D function.
-Despite the JS code, there are 3 files that you need to read first
+Despite the JS code, there are 3 files that you need to read first。
 
-## How to rn this project.doc
+Type “npm install firebase" in the VS Code terminal first, then type "npm run". 
+
+### How to run this project.doc
 
 This document tells you how to register the firebase account on Google, 
 how to configure your firebase, how to install the dependency and
