@@ -17,6 +17,7 @@ There are 8 files and 1 picture in this project:
 
 ## Prepare
 Despite the JS code, there are 3 files that you need to read first.
+
 Type “npm install firebase" in the VS Code terminal first, then type "npm run". 
 
 ### How to run this project.doc
