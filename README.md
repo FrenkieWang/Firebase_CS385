@@ -20,13 +20,13 @@ Despite the JS code, there are 3 files that you need to read first.
 
 Type “npm install firebase" in the VS Code terminal first, then type "npm run". 
 
-### How to run this project.doc
+### How to run this project.pdf
 
 This document tells you how to register the firebase account on Google, 
 how to configure your firebase, how to install the dependency and
 how to run this project.
 
-### Project Architecture.doc
+### Project Architecture.pdf
  
 This document tells you the architecture of this program.
 This program is divided into 3 parts.
