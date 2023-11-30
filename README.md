@@ -14,6 +14,7 @@ There are 8 files and 1 picture in this project:
 - AddPallet.js
 - EditPallet.js
 - pallet.png
+All of them are in the 'src' folder.
 
 ## Prepare
 Despite the JS code, there are 3 files that you need to read first.
