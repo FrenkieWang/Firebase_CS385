@@ -2,8 +2,21 @@
 This is a full-stack application!
 We use React, Firebase and NodeJS in this project.
 We can connect the firebase database and realize the C-R-U-D function.
-Despite the JS code, there are 3 files that you need to read first。
 
+## List
+There are 8 files and 1 picture in this project:
+- fbconfig.js
+- App.js
+- SignIn.js
+- SignOut.js
+- PalletDashboard.js
+- DisplayPallet.js
+- AddPallet.js
+- EditPallet.js
+- pallet.png
+
+## Prepare
+Despite the JS code, there are 3 files that you need to read first.
 Type “npm install firebase" in the VS Code terminal first, then type "npm run". 
 
 ### How to run this project.doc
