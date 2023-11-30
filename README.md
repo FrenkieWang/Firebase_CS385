@@ -1,7 +1,10 @@
 ## Introduction
 This is a full-stack application!
+
 We use React, Firebase and NodeJS in this project.
+
 We can connect the firebase database and realize the C-R-U-D function.
+
 
 ## List
 There are 8 files and 1 picture in this project:
@@ -32,10 +35,13 @@ how to run this project.
 ### Project Architecture.pdf
  
 This document tells you the architecture of this program.
+
 This program is divided into 3 parts.
+
 - Part A: Pallet Dashboard
 - Part B: Authentication
 - Part C: Combination
+
 You can understand how this project works after reading this file.
 
 ### Overall Components Schematic.jpg
