@@ -3,8 +3,21 @@ This is a full-stack application!
 
 We use React, Firebase and NodeJS in this project.
 
-We can connect the firebase database and realize the C-R-U-D function.
+This project connects the firebase database and realizes the C-R-U-D function.
 
+
+## Play it by yourself first!
+I have deployed the project on the website, click the following link to have a try.
+
+https://easy-firebase.vercel.app/
+
+I created two sample users in this file.
+Each users can deal with their own pallets.
+
+-frenkie@gmail.com 12345678
+-frenkie2@gmail.com 12345678
+
+Have fun!
 
 ## List
 There are 8 files and 1 picture in this project:
@@ -47,10 +60,3 @@ You can understand how this project works after reading this file.
 ### Overall Components Schematic.jpg
 
 I also draw a picture to explain the architecture of this code.
-
-## Test
-I created two sample users in this file. You can have a try.
-
-frenkie@gmail.com 12345678
-
-frenkie2@gmail.com 12345678
