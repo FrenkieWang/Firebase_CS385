@@ -14,8 +14,9 @@ https://easy-firebase.vercel.app/
 I created two sample users in this file.
 Each users can deal with their own pallets.
 
--frenkie@gmail.com 12345678
--frenkie2@gmail.com 12345678
+frenkie@gmail.com 12345678
+
+frenkie2@gmail.com 12345678
 
 Have fun!
 
