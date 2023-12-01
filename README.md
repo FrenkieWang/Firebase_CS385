@@ -47,3 +47,10 @@ You can understand how this project works after reading this file.
 ### Overall Components Schematic.jpg
 
 I also draw a picture to explain the architecture of this code.
+
+## Test
+I created two sample users in this file. You can have a try.
+
+frenkie@gmail.com 12345678
+
+frenkie2@gmail.com 12345678
