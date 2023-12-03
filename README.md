@@ -1,9 +1,14 @@
 ## Introduction
-This is a full-stack application!
+This is a very easy project that realised the full-stack function of C-R-U-D, by using Firebase and React. There are only 8 JavaScript files and 1 PNG file in this project. 
 
-We use React, Firebase and NodeJS in this project.
+The reason why we chose Firebase to connect with React is because we don’t 
+need to set up Backend program.  
 
-This project connects the firebase database and realizes the C-R-U-D function.
+In this part, we need to allow a user to 
+- CREATE : Add a pallet for shipping (add to our Firestore database) – Allow the user to specify the goods on the pallet and the overall weight (KG). 
+- READ : Display all pallets in our warehouse.  
+- UPDATE : Edit a pallet – allow the user to change the details for an existing pallet in our Firestore database. 
+- DELETE : Delete a pallet – remove this pallet from our Firestore database 
 
 
 ## Play it by yourself first!
