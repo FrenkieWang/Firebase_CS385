@@ -5,15 +5,14 @@ import { getFirestore, initializeFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
  // you will need to generate this within Firebase yourself. 
-  apiKey: "AIzaSyCyYr79N1VIGu7mn7uEkFcd4b1_9xSxYG8",
-  authDomain: "fir-totorialfrenkie.firebaseapp.com",
-  projectId: "fir-totorialfrenkie",
-  storageBucket: "fir-totorialfrenkie.appspot.com",
-  messagingSenderId: "363661984616",
-  appId: "1:363661984616:web:fd948fe7de27ebb6b50cdd",
-  measurementId: "G-4Q42D6D41R"
+  apiKey: process.env.REACT_APP_API_KEY,
+  authDomain: process.env.REACT_APP_AUTH_DOMAIN,
+  projectId: process.env.REACT_APP_PROJECT_ID,
+  storageBucket: process.env.REACT_APP_STORAGE_BUCKET,
+  messagingSenderId: process.env.REACT_APP_MESSAGING_SENDER_ID,
+  appId: process.env.REACT_APP_APP_ID,
+  measurementId: process.env.REACT_APP_MEASUREMENT_ID 
 };
-
 
 let firebaseApp;
 try {
